@@ -2,9 +2,8 @@
 
 Read or watch:
 
-- [Flask-Babel](https://intranet.hbtn.io/rltoken/Q71CxQOjqpOJrqHd_F4lXQ)
-- [Flask i18n tutorial](https://intranet.hbtn.io/rltoken/NdAnX-Td57RRaA25LX0A1Q)
-- [pytz](https://intranet.hbtn.io/rltoken/yk8MxfbrtfmHusK6pmX7XQ)
+- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [TypeScript documentation](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 ## Learning Objectives
 
