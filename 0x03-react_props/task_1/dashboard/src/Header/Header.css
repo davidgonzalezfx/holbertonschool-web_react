@@ -1,0 +1,15 @@
+:root {
+  --main-color: #e01d3f;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  color: var(--main-color);
+  font-size: 20px;
+  border-bottom: 3px solid var(--main-color);
+}
+
+.header img {
+  width: 200px;
+}
