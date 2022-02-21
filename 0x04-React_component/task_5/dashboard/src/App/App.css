@@ -1,0 +1,12 @@
+:root {
+  --main-color: #e01d3f;
+}
+
+.App {
+  border-bottom: 3px solid var(--main-color);
+}
+
+.App-body {
+  display: flex;
+  justify-content: center;
+}
