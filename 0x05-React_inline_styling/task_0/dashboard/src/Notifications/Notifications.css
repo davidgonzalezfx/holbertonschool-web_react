@@ -1,0 +1,31 @@
+:root {
+  --main-color: #e01d3f;
+}
+
+.menuItem {
+  text-align: right;
+}
+
+.Notifications {
+  float: right;
+  border: 3px dashed var(--main-color);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.Notifications button img {
+  width: 10px;
+}
+
+.Notifications p {
+  margin: 0;
+  margin-top: 15px;
+}
+
+[data-notification-type="default"] {
+  color: blue;
+}
+
+[data-notification-type="urgent"] {
+  color: red;
+}
